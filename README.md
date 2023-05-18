@@ -1,9 +1,12 @@
 <h1>Yet another web developer</h1>
+<p>
 - 👋 Hi, I’m fan
 - 👀 I’m interested in Play games
 - 🌱 I’m currently learning Typescript
 - 💞️ I have a chinchilla
 - 📫 How to reach me wzfdhr2000@163
+</p>
+
 
 <!---
 fatso-fan/fatso-fan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
