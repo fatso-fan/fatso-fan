@@ -1,4 +1,4 @@
-<h1>Yet another web developer</h1>
+<h2>Yet another web developer</h2>
 <p>- 👋 Hi, I’m fan</p>
 <p>- 👀 I’m interested in Play games</p>
 <p>- 🌱 I’m currently learning Typescript</p>
